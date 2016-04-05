@@ -1,0 +1,19 @@
+<html>
+<head>
+  <script src="jquery.min.js" type="text/javascript"></script>
+  <script src="chroma.min.js" type="text/javascript"></script>
+  <script src="art.js" type="text/javascript"></script>
+  <style type="text/css">
+  </style>
+</head>
+<body>
+  <center>
+    <canvas id="art"></canvas>
+  </center>
+  <script>
+    $(function() {
+      new Art($("#art")[0], 36, 12);
+    });
+  </script>
+</body>
+</html>
