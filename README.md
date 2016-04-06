@@ -3,6 +3,8 @@ Autogen art like Gene Davis
 
 Example output:
 ![alt tag](https://raw.githubusercontent.com/agravitis/genedavis/master/Screen%20Shot%202016-04-06%20at%2010.50.36%20AM.png)
+![alt tag](https://raw.githubusercontent.com/agravitis/genedavis/master/Screen%20Shot%202016-04-06%20at%2011.23.20%20AM.png)
+![alt tag](https://raw.githubusercontent.com/agravitis/genedavis/master/Screen%20Shot%202016-04-06%20at%2011.24.58%20AM.png)
 
 What the variables do:
 * *width* is the output width divided by 50 (the pxMultiplier)
